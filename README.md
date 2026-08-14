@@ -1,12 +1,13 @@
 # Linux-Infrastructure-Lab
 Hands-on Linux infrastructure project covering server setup, networking, SSH, services, security hardening and monitoring.
 <hr>
-## Project Aim
+
+## Project Goals
 The purpose of this project is to revisit Linux and networking subjects I have previously studied,
 strengthen my existing knowledge through practical exercises, and develop these skills further by exploring more advanced infrastructure and security concepts.
 <hr> 
-## Project Goals
 
+## Project Aim
 The aim of this project is to develop practical Linux infrastructure skills, including:
 
 - Linux server installation and configuration
@@ -21,9 +22,9 @@ The aim of this project is to develop practical Linux infrastructure skills, inc
 - Basic Linux security hardening
 - System resource monitoring
 - Basic automation and scripting
+<hr>
 
 ## Lab Environment
-
 - Ubuntu Server
 - Virtual machine
 - Local home lab
